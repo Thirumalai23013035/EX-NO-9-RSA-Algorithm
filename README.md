@@ -139,6 +139,8 @@ int main() {
 }
 ```
 ## Output:
-![exp-9](https://github.com/user-attachments/assets/60377d60-0f4f-4f44-9e8f-a903ddb48a36)
+![Screenshot 2024-11-11 092256](https://github.com/user-attachments/assets/5ae75cd9-5cbc-4f5a-9ff5-a980623c0525)
+
+
 ## Result:
  The program is executed successfully.
